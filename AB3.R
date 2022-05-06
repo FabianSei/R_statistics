@@ -6,7 +6,7 @@
 
 rm(list = objects())
 
-setwd("C:/Users/fabia/iCloudDrive/WS21/statistische Datenanalyse/Daten")
+setwd("...")
 load("WHR2019_prep2.rda")
 
 #a)
