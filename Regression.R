@@ -1,10 +1,10 @@
 #10 PS am 01.12.21
-#Autor: Fabian Seisl
+#Autor: Fabian 
 # Regressionsanalyse
 #--------------------------------------------
 
 rm(list=objects())
-setwd("C:/Users/fabia/iCloudDrive/WS21/statistische Datenanalyse")
+setwd("...")
 
 
 #-----------------------------------------
